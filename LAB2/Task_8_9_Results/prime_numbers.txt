@@ -1,0 +1,4 @@
+Number sequence: [2, 3, 5, 7, 11, 13, 17, 19]
+Sum: 77
+Min: 2
+Max: 19

@@ -1,0 +1,23 @@
+modificationer: s
+Original List: [10, 20]
+Original Tuple: (8,)
+Original Set: {1, 2, 3, 4}
+Original Dictionary: {5: 24, 2: 4, 1: 1, 9: 81, 11: 121}
+Manipulated List: [10, 20]
+Manipulated Tuple: (8,)
+Union of Set: {1, 2, 3, 4, 5, 6}
+Intersection of Set: {3, 4}
+Difference of Set: {1, 2}
+Updated Dictionary: {5: 24, 2: 4, 1: 1, 9: 81, 11: 121}
+List to Tuple: (10, 20)
+List to Set: {10, 20}
+List to Dictionary: {10: 10, 20: 20}
+Tuple to List: [8]
+Tuple to Set: {8}
+Tuple to Dictionary: {8: 8}
+Set to List: [1, 2, 3, 4]
+Set to Tuple: (1, 2, 3, 4)
+Set to Dictionary: {1: 3, 2: 4, 3: 5, 4: 6}
+Dictionary to List: [5, 2, 1, 9, 11]
+Dictionary to Tuple: (5, 2, 1, 9, 11)
+Dictionary to Set: {1, 2, 5, 9, 11}
